@@ -1,0 +1,21 @@
+{
+  "name": "testing_project_fabios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jira_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drodriguez881/Testing_Project_Fabios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/drodriguez881/Testing_Project_Fabios/issues"
+  },
+  "homepage": "https://github.com/drodriguez881/Testing_Project_Fabios#readme"
+}
